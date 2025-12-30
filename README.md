@@ -1,4 +1,4 @@
-<header>
+Thanks for the update<header>
 
 <!--
   <<< Author notes: Course header >>>
